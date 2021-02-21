@@ -5,3 +5,4 @@ itachi
 naruto
 kakashi
 gaara
+obito
